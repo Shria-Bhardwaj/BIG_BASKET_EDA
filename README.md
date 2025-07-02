@@ -87,6 +87,4 @@ This project illustrates how **data science** can provide actionable insights in
 - 🌐 [LinkedIn] https://www.linkedin.com/in/shria-bhardwaj/
 - 📧 Email: shria.bhardwaj05@gmail.com
 
----
 
-> 💡 *If you found this project helpful, feel free to fork, star ⭐, or share it!*
